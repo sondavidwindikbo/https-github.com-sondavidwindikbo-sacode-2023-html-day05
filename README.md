@@ -1,3 +1,3 @@
-#https-github.com-sondavidwindikbo-sacode-2023-html-day05
+# https-github.com-sondavidwindikbo-sacode-2023-html-day05
 
 belajar font Awesome
